@@ -12,7 +12,7 @@ For User
 Open Your browser put inside browser “http://localhost/hostel”
 Login Details for user:
 Email : shubhangi@gmail.com
-Password: sush
+Password: 1234
 
 
 For Admin Panel
